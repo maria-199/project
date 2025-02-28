@@ -1,1 +1,1 @@
-# project
+# Тетрис на Python
