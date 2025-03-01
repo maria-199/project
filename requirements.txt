@@ -1,0 +1,4 @@
+pygame 23.2.1
+copy  23.2.1
+random  23.2.1
+sys 23.2.1
